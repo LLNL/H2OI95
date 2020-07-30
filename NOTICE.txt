@@ -1,3 +1,12 @@
+NOTICE.txt     Last revised 06/06/2020
+
+H2OI95, A Code for Evaluating the IAPWS-95 Equation-of-State Model for Water
+Version 1.1, Build 118
+Written by Thomas J. Wolery (wolery1@llnl.gov)
+Unclassified/Open Source Distribution
+LLNL-CODE-811146
+CP Numbber: CP02321
+
 This work was produced under the auspices of the U.S. Department of
 Energy by Lawrence Livermore National Laboratory under Contract
 DE-AC52-07NA27344.
